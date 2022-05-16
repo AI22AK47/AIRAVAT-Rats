@@ -103,7 +103,7 @@
  1. Hidden App without Foreground service notification (full stealth mode)
 
 ## Contact Info 
- 1. [Telegram](https://t.me/th30neand0nly)
+ 1. [Telegram](https://t.me/@HAX0R693)
 
 
 ## DISCLAIMER
